@@ -1,13 +1,10 @@
-/*!
- * Start Bootstrap - Small Business (https://startbootstrap.com/template/small-business)
- * Copyright 2013-2020 Start Bootstrap
- * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-small-business/blob/master/LICENSE)
- */
-body {
-  padding-top: 56px;
+
+body{
+  /* padding-top: 56px; */
 }
 .btn-primary{
-    background-color: #70A8CA;
+    background-color: #0162DA;
+    border-color: whitesmoke;
 }
 .bg-primary{
   background-color: #70A8CA;
@@ -15,4 +12,13 @@ body {
 
 .bg-blue{
   background-color: #70A8CA;
+}
+.hero{
+  background-image: url('https://cdn.pixabay.com/photo/2020/09/01/06/00/sky-5534319_1280.jpg');
+  background-position: 'center';
+  background-repeat: 'no-repeat';
+  background-size: cover;
+}
+.underlined{
+  text-decoration: underline;
 }
