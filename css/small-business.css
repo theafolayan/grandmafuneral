@@ -22,3 +22,6 @@ body{
 .underlined{
   text-decoration: underline;
 }
+.no-flow{
+  text-align: left;
+}
